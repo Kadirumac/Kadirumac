@@ -23,7 +23,7 @@
 ### Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/kadirumac/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="Kadir" height="30" width="30" /> Vist my LinkedIn or</a> => <a href="https://kadirumac.netlify.app/">Visit my Website</a>
+<a href="https://www.linkedin.com/in/kadirumac/" target="_blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="Kadir" height="30" width="30" /> Vist my LinkedIn or</a> => <a href="https://kadirumac.netlify.app/">Visit my Website</a>
 </p>
 
 <br />
