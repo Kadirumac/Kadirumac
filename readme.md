@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Jusrelate Group GmbH](https://www.justrelate.com/)
 - 💬 I'm currently programming with React.js
-- 🌱 I’m currently learning Advanced NodeJs
+- 🌱 I’m currently learning Associate AWS and Advanced NodeJs
 - 📫 Reach me at **kadirumac49@gmail.com**
 
 <!-- <h3>My Project Background</h3>
