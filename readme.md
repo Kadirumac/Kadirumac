@@ -31,11 +31,6 @@
 
 <br />
 
-<h3>Second  github Account</h3>
-<a href="https://github.com/Kadir-umac">
-<img  src="./github-2.png" />
-</a>
-
 <h3 align="left">Languages:</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -68,3 +63,8 @@
       </a>
     </div>
      </p>
+
+<h3>Second  github Account</h3>
+<a href="https://github.com/Kadir-umac">
+<img  src="./github-2.png" />
+</a>
