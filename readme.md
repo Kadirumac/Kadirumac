@@ -23,10 +23,7 @@
 ### Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/kadirumac/" target="_blank"> Vist my LinkedIn or</a> || <a href="https://kadirumac.netlify.app/">Visit my Website</a> || 
-<a href="https://github.com/Kadir-umac">
-Second  github Account
-</a>
+<a href="https://www.linkedin.com/in/kadirumac/" target="_blank"> Vist my LinkedIn or</a> || <a href="https://kadirumac.netlify.app/">Visit my Website</a> 
 
 </p>
 
