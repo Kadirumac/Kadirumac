@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Jusrelate Group GmbH](https://www.justrelate.com/)
-- 💬 I'm currently programming with React.js
+- 💬 I'm currently programming with MERN Stack
 - 🌱 I’m currently learning Associate AWS and Advanced NodeJs
 - 📫 Reach me at **kadirumac49@gmail.com**
 
